@@ -1,0 +1,44 @@
+.chat{
+   width: 70%;
+   background-color: rgb(255, 255, 255);
+   
+}
+.chat img{
+   width:30%;
+   margin-top:150px;
+   margin-left: 350px;
+   margin-bottom: 30px;
+}
+
+h3{
+   font-family:Arial, Helvetica, sans-serif;
+   margin-bottom: 10px;
+   margin-left: 300px;
+   color:rgb(57, 54, 54);
+}
+.store{
+   border-radius: 30px;
+   background-color: #3a925a;
+   color:white;
+   width: 250px;
+   height: 30px;
+   border: 1px solid white;
+   margin-left: 380px;
+}
+.chat1 p{
+   margin-right: 20px;
+   margin-left: 260px;
+}
+.chat2 p{
+   margin-left: 430px;
+}
+.end p{
+   margin-top: 90px;
+   margin-left: 350px;
+   color:#5e605f;
+   
+}
+
+
+
+
